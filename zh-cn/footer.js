@@ -51,7 +51,7 @@ document.writeln("                    <div class=\'footer-list\'>");
 document.writeln("                        <ul>");
 document.writeln("                            <li><a href=\'#\'>微信公众号</a></li>");
 document.writeln("                            <li><a href=\'https://space.bilibili.com/3461564260682658\'><span title=\'将跳转至其他页面。\' data-title>哔哩哔哩</span></a></li>");
-document.writeln("                            <li><a href=\'#\' title=\'将跳转至其他页面。\' data-title>小红书</a></li>");
+document.writeln("                            <li><a href=\'https://www.xiaohongshu.com/user/profile/64dcc6890000000001004c42\' title=\'将跳转至其他页面。\' data-title>小红书</a></li>");
 document.writeln("                            <li><a href=\'https://www.youtube.com/@cloudervallge\' title=\'该页面在当前地区可能无法打开。\' data-title>YouTube</a></li>");
 document.writeln("							<li><a href=\'https://github.com/LuoYunOfficial/\' title=\'使用部分运营商网络可能无法打开该页面。\' data-title>GitHub(LuoYun)</a></li>");
 document.writeln("                        </ul>");
