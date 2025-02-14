@@ -51,7 +51,7 @@ document.writeln("                    <div class=\'footer-list\'>");
 document.writeln("                        <ul>");
 document.writeln("                            <li><a href=\'#\'>WeChat公式アカウント</a></li>");
 document.writeln("                            <li><a href=\'https://space.bilibili.com/3461564260682658\'><span title=\'中国語を話さない人には理解できないかもしれません。\' data-title>ビリビリ</span></a></li>");
-document.writeln("                            <li><a href=\'#\' title=\'中国語と英語のみでご利用いただけます。\' data-title>rednote</a></li>");
+document.writeln("                            <li><a href=\'https://www.xiaohongshu.com/user/profile/64dcc6890000000001004c42\' title=\'中国語と英語のみでご利用いただけます。\' data-title>rednote</a></li>");
 document.writeln("                            <li><a href=\'https://www.youtube.com/@cloudervallge\'>YouTube</a></li>");
 document.writeln("							<li><a href=\'https://github.com/LuoYunOfficial/\'>GitHub(LuoYun)</a></li>");
 document.writeln("                        </ul>");
