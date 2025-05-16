@@ -18,7 +18,7 @@ document.writeln("                        <h3>关于我们</h3>");
 document.writeln("                    </div>");
 document.writeln("                    <div class=\'footer-list\'>");
 document.writeln("                        <ul>");
-document.writeln("						    <li><a href=\'https://luoyunofficial.github.io/cloudervallge/zh-cn/about\'>《云上回声》</a></li>");
+document.writeln("						    <li><a href=\'https://luoyunofficial.github.io/cloudervallge/zh-cn/about\'>《云墟协奏》</a></li>");
 document.writeln("                            <li><a href=\'https://luoyunofficial.github.io/zh-cn/about\' title=\'使用部分运营商网络可能无法打开该页面。\' data-title>LuoYun</a></li>");
 document.writeln("                            <li><a href=\'https://luoyunofficial.github.io/cloudervallge/zh-cn/contact\'>联系我们</a></li>");
 document.writeln("							<li><a href=\'https://luoyunofficial.github.io/zh-cn/privacy\' title=\'使用部分运营商网络可能无法打开该页面。\' data-title>LuoYun 隐私政策</a></li>");
